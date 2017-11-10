@@ -41,12 +41,12 @@ My Gist Links
 
 ### Web URLs with useful utilities
 
-- [Web의 유용한 URL 모음](https://gist.github.com/ClintJang/608516a9a5536e233848f6e519f8e6f4)
+- [Web의 유용한 URL 모음](https://gist.github.com/ClintJang/a125c425bf94fc2527502726277238da)
 
 
 ### Gist Functional Reactive Programming Paradigm
 
-- [Functional Reactive Programming Paradigm 이란?](https://gist.github.com/ClintJang/40a4e9e2bbb2c88ff8af04b71a497a2a)
+- [Functional Reactive Programming Paradigm 이란?(강의자료 다시 기억하려고 한 메모)](https://gist.github.com/ClintJang/40a4e9e2bbb2c88ff8af04b71a497a2a)
 
 
 ### The first time I felt 'Swift'
