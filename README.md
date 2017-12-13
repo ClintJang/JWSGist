@@ -43,6 +43,10 @@ My Gist Links
 
 - [Web의 유용한 URL 모음](https://gist.github.com/ClintJang/a125c425bf94fc2527502726277238da)
 
+### Supported device notes for each iOS version
+
+- [각각의 iOS 버전에 따른 지원 가능한 디바이스 정리](https://gist.github.com/ClintJang/2691cb6653c6bad8c05609d7b6371d53)
+
 
 ### Gist Functional Reactive Programming Paradigm
 
@@ -52,5 +56,4 @@ My Gist Links
 ### The first time I felt 'Swift'
 
 - [스위프트 개발을 처음 시작할 때 들었던 생각](https://gist.github.com/ClintJang/c6e5c026e4f7faf1d493bb4b3d4bcaa3)
-
 
