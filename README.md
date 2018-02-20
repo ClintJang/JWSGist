@@ -9,7 +9,7 @@ My Gist Links
 .... just ..personal
 ```
 ### *Awesome Swift Korean Lecture*
-- [Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md)
+- [Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음/ Readme 링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md)
 
 ### Useful information site in iOS
 
