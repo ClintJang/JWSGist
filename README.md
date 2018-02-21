@@ -8,8 +8,6 @@ My Gist Links
 ```
 .... just ..personal
 ```
-### *Awesome Swift Korean Lecture*
-- [Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음/ Readme 링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md)
 
 ### Useful information site in iOS
 
@@ -24,7 +22,7 @@ My Gist Links
 ### swift video lecture information collection
 
 - [Swift 동영상 강의 정보](https://gist.github.com/ClintJang/608516a9a5536e233848f6e519f8e6f4)
-
+- [Swift 개발언어를 공부하기 위한 훌륭한 한국어 강의 동영상 정보 링크 모음/ Readme 링크](https://github.com/ClintJang/awesome-swift-korean-lecture/blob/master/README.md)
 
 ### Cocoapods Create Library Info
 
